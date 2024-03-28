@@ -27,3 +27,7 @@ This repository is a comprehensive collection of Python scripts and tools design
 - **Census Data Analysis**: `census.csv` - A dataset for practicing data analysis.
 - **Financial Functions**: `finance_functions.py` - Collection of Python functions useful in financial analysis.
 - **Dictionaries in Python**: `dictionaries.py` - Understanding and using dictionaries for data storage and manipulation.
+
+## Credit
+
+These resources are from *Python for MBAs* (2021) by Daniel Guetta and Mattan Griffel.
